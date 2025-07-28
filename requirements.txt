@@ -1,0 +1,5 @@
+tensorflow==2.19.0
+music21
+numpy
+matplotlib
+scikit-learn
