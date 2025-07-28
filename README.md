@@ -25,4 +25,4 @@ This project uses a small **subset of the [Monster MIDI Dataset](https://hugging
 
 ## Acknowledgements
 
-- MIDI data sourced from a subset of the **[Monster MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Monster-MIDI-Dataset)**.
+- MIDI data sourced from **[Monster MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Monster-MIDI-Dataset)**.
