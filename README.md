@@ -21,6 +21,7 @@ This project uses a **subset of the [Monster MIDI Dataset](https://huggingface.c
 ## Output
 
 - `generated_music.mid`: MIDI file of the generated sequence.
+- [Click here to listen to the generated music](./sample/sample_1.mp3)
 
 ## Acknowledgements
 
