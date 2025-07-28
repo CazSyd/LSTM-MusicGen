@@ -16,7 +16,7 @@ The model uses stacked bidirectional LSTM layers to learn temporal patterns in m
 
 ## Dataset
 
-This project uses a **subset of the [Monster MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Monster-MIDI-Dataset)**. All MIDI files were preprocessed to clamp durations to a fixed set and extract pitch/duration pairs.
+This project uses a small **subset of the [Monster MIDI Dataset](https://huggingface.co/datasets/projectlosangeles/Monster-MIDI-Dataset)**. All MIDI files were preprocessed to clamp durations to a fixed set and extract pitch/duration pairs.
 
 ## Output
 
